@@ -1,1 +1,1 @@
-![image alt]([https://github.com/MOHAMADMAHADYHASAN/covid_tracker/blob/main/'image.png](https://github.com/MOHAMADMAHADYHASAN/covid_tracker/blob/main/White%20Simple%20Light%20Blogger%20Bio%20Link%20Website%20(1).png))
+![image alt](https://github.com/MOHAMADMAHADYHASAN/covid_tracker/blob/main/White%20Simple%20Light%20Blogger%20Bio%20Link%20Website%20(1).png)
